@@ -1,0 +1,8 @@
+.Banner {
+    align-items: center;
+    background-color: #6278F7;
+}
+
+.Banner img{
+    max-width: 100vw;
+}
