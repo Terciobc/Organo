@@ -1,4 +1,4 @@
-import "./Rodape.css";
+import "./rodape.css";
 
 const Rodape = () => {
   return (
@@ -6,17 +6,17 @@ const Rodape = () => {
       <section>
         <ul>
           <li>
-            <a href="facebook.com" target="_blank">
+            <a href="fb.com" target="_blank">
               <img src="/img/fb.png" alt="" />
             </a>
           </li>
           <li>
-            <a href="twitter.com" target="_blank">
+            <a href="tw.com" target="_blank">
               <img src="/img/tw.png" alt="" />
             </a>
           </li>
           <li>
-            <a href="instagram.com" target="_blank">
+            <a href="ig.com" target="_blank">
               <img src="/img/ig.png" alt="" />
             </a>
           </li>

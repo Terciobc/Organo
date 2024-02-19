@@ -1,13 +1,10 @@
-import { Fragment } from "react";
-import "./Banner.css";
+import "./banner.css";
 
 const Banner = () => {
   return (
-    <Fragment>
-      <header className="Banner">
-        <img src="./img/banner.png" alt="Banner principal" />
-      </header>
-    </Fragment>
+    <header className="cabecalho">
+      <img src="/img/banner.png" alt="Logo do Organo" />
+    </header>
   );
 };
 
